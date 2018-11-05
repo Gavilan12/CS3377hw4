@@ -1,0 +1,35 @@
+commit 2c5ea664d59a676177e9548e70a572873f572896
+Author: Gavilan12 <toro21190@yahoo.com>
+Date:   Sun Nov 4 20:40:41 2018 -0600
+
+    part 4.3 done and tested
+
+commit add4027999442ef7ccbf82a5b1ae952e2bd8252d
+Author: Gavilan12 <toro21190@yahoo.com>
+Date:   Sun Nov 4 18:17:05 2018 -0600
+
+    Script2 improved
+
+commit d55a24e0699f415ef71ace5b30510c698b0e6e08
+Author: Gavilan12 <toro21190@yahoo.com>
+Date:   Sun Nov 4 18:04:01 2018 -0600
+
+    Script2
+
+commit 714a800dd2eae764e6a105b3f1eecab274d3135c
+Author: Gavilan12 <toro21190@yahoo.com>
+Date:   Sat Nov 3 17:24:53 2018 -0500
+
+    readme
+
+commit 75b949a199ee382d5d43eceb95dff43aef9a0b1f
+Author: Gavilan12 <toro21190@yahoo.com>
+Date:   Sat Nov 3 17:21:59 2018 -0500
+
+    script1 made not tested
+
+commit b55e1962e89e8e48c363b84657a11755af3c100e
+Author: Gavilan12 <43182579+Gavilan12@users.noreply.github.com>
+Date:   Fri Nov 2 11:42:39 2018 -0500
+
+    Initial commit
